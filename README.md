@@ -14,8 +14,8 @@ Create a file named config.json in the same directory as the script.
 Add your fastly_vcl_ngwaf_checker.py API token and Customer ID:
 
 {
-    "api_token": "Ey7XfWFY007M3Tn2QZCRg-foo",
-    "customer_id": "54Uvll8vVLQeqXODMD8k6d"
+    "api_token": "API Key",
+    "customer_id": "Customer ID"
 }
 Replace "Ey7XfWFY00073Tn2QZCRg-foo" with your actual fastly_vcl_ngwaf_checker.py API token (must have global:read scope or equivalent).
 Clone or Download the Script
