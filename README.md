@@ -33,7 +33,7 @@ Python 3: Ensure Python 3 is installed.
    - Example output :
 
 Processing Service ID: SID Listed
-  Service Name: EdgeNGWAF33
+  Service Name: service name
   Active VCL Version: 3
   WAF Status: ✅
 
