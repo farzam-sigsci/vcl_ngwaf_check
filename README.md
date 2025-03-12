@@ -4,7 +4,7 @@
 # Prerequisites
 Python 3: Ensure Python 3 is installed. 
 - Check with:
-'''python3 --version
+    - python3 --version
 
 # Dependencies: Install the required requests library:
 
@@ -12,7 +12,7 @@ Python 3: Ensure Python 3 is installed.
 
 # Prepare the Config File
    - Create a file named config.json in the same directory as the script.
-   - Add your fastly_vcl_ngwaf_checker.py API token and Customer ID:
+      - Add your fastly_vcl_ngwaf_checker.py API token and Customer ID:
 
  {
     "api_token": "API Key",
@@ -24,20 +24,22 @@ Python 3: Ensure Python 3 is installed.
 
 # Run the Script
    - Open a terminal in the script’s directory.
-   - Execute:
+      - Execute:
 
    python3 fastly_vcl_ngwaf_checker.py_services.py
 
 # Check the Output
 - Console: Displays service details (Service ID, Name, Active Version, WAF Status) as the script runs.
-- Example output :
+   - Example output :
+
 Processing Service ID: 8gWaTOqVyDZofjEA52HIE2
   Service Name: EdgeNGWAF33
   Active VCL Version: 3
   WAF Status: ✅
 
-- Report saved as: account_report_20231001_123456.csv
-- Fixed report saved as: cid_ngwaf_results.csv
+# Reports
+ - Report saved as: account_report_20231001_123456.csv
+ - Fixed report saved as: cid_ngwaf_results.csv
 
 # CSV Files:
 - account_report_{timestamp}.csv (e.g., account_report_20231001_123456.csv): Timestamped results for each run.
