@@ -42,5 +42,6 @@ Python 3: Ensure Python 3 is installed.
  - Fixed report saved as: cid_ngwaf_results.csv
 
 # CSV Files:
-- account_report_{timestamp}.csv (e.g., account_report_20231001_123456.csv): Timestamped results for each run.
+- account_report_{timestamp}.csv (e.g., account_report_20231001_123456.csv):
+   - Timestamped results for each run.
 - cid_ngwaf_results.csv: Latest results, overwritten each run.
