@@ -32,7 +32,7 @@ Python 3: Ensure Python 3 is installed.
 - Console: Displays service details (Service ID, Name, Active Version, WAF Status) as the script runs.
    - Example output :
 
-Processing Service ID: 8gWaTOqVyDZofjEA52HIE2
+Processing Service ID: SID Listed
   Service Name: EdgeNGWAF33
   Active VCL Version: 3
   WAF Status: ✅
