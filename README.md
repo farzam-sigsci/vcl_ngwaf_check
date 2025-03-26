@@ -1,5 +1,5 @@
 # How to Run
-- Follow these steps to run the fastly_vcl_ngwaf_checker.py_services.py script 
+- Follow these steps to run the fastly_vcl_ngwaf_checker_ver2.py script 
 
 # Prerequisites
 Python 3: Ensure Python 3 is installed. 
