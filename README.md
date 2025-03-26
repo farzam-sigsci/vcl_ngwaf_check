@@ -26,7 +26,7 @@ Python 3: Ensure Python 3 is installed.
    - Open a terminal in the script’s directory.
       - Execute:
 
- >>>>  % python3 fastly_vcl_ngwaf_checker.py
+ >>>>  % python3 fastly_vcl_ngwaf_checker_ver2.py
 
 # Check the Output
 - Console: Displays service details (Service ID, Name, Active Version, WAF Status) as the script runs.
